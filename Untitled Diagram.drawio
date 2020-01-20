@@ -1,10 +1,13 @@
-<mxfile host="www.draw.io" modified="2020-01-20T08:37:12.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="3oR3T7DQa4CHoLXQRfw3" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T10:43:12.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="k-Yd-wALA-IBWlv8pPgQ" version="12.5.5" type="github">
   <diagram id="3xAT6aWjAmRWdDU82_Jx" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="MlrHnHFlYhWvZ3quWtXL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MlrHnHFlYhWvZ3quWtXL-1" target="MlrHnHFlYhWvZ3quWtXL-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="MlrHnHFlYhWvZ3quWtXL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MlrHnHFlYhWvZ3quWtXL-1" target="MlrHnHFlYhWvZ3quWtXL-27">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="MlrHnHFlYhWvZ3quWtXL-1" value="If&lt;br&gt;&amp;nbsp;a &amp;gt; 4" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -16,8 +19,17 @@
         <mxCell id="MlrHnHFlYhWvZ3quWtXL-6" value="Dame un numero entero (a)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="70" width="300" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="MlrHnHFlYhWvZ3quWtXL-18" value="Mostrar numero a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="527" y="160" width="300" height="60" as="geometry"/>
+        <mxCell id="MlrHnHFlYhWvZ3quWtXL-18" value="él numero es mayor que 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MlrHnHFlYhWvZ3quWtXL-23" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="MlrHnHFlYhWvZ3quWtXL-24" value="`si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="MlrHnHFlYhWvZ3quWtXL-27" value="el numero es menor que 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="300" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
